@@ -1,3 +1,4 @@
+Index file should be run first.
 The Class Admin Console Application is a user-friendly project designed for class administrators. It offers a comprehensive set of features that enable administrators to efficiently manage their class activities. Whether logging in as an existing admin or registering as a new admin, the application provides a seamless experience.
 
 Upon registration, new admins can securely log in with their unique ID and password. To ensure the security of the system, admins are required to verify their email address. An OTP (One-Time Password) is sent to the registered email, allowing admins to validate their account. Admins have three attempts to enter the OTP correctly; failure to do so will result in temporary blocking by the system.
